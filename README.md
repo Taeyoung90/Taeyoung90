@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taeyoung90
-- 👀 I’m interested in ML/DL/AI
-- 🌱 I’m currently learning ML/DL/AI 
+- 👀 I’m interested in ML/DL/AI/MLOps
+- 🌱 I’m currently learning ML/DL/AI/MLOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [idealty90@gmail.com](idealty90@gmail.com)
 
